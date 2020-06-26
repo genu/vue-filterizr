@@ -1,7 +1,7 @@
 # vue-filterizr
 This is a Vue wrapper for [Filterizr](https://yiotis.net/filterizr/#/).
 
-## Project setup
+## Installation
 
 ```
 yarn add vue-filterizr
